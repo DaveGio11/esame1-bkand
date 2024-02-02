@@ -1,0 +1,7 @@
+C:\Users\Utente\source\repos\Esame1-bkand\Esame1-bkand\bin\Debug\Esame1-bkand.exe.config
+C:\Users\Utente\source\repos\Esame1-bkand\Esame1-bkand\bin\Debug\Esame1-bkand.exe
+C:\Users\Utente\source\repos\Esame1-bkand\Esame1-bkand\bin\Debug\Esame1-bkand.pdb
+C:\Users\Utente\source\repos\Esame1-bkand\Esame1-bkand\obj\Debug\Esame1-bkand.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\Esame1-bkand\Esame1-bkand\obj\Debug\Esame1-bkand.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Esame1-bkand\Esame1-bkand\obj\Debug\Esame1-bkand.exe
+C:\Users\Utente\source\repos\Esame1-bkand\Esame1-bkand\obj\Debug\Esame1-bkand.pdb
